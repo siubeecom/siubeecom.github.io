@@ -28,14 +28,14 @@ New
 羅馬擁有超過400萬居民。
 </p> </div>
 
-<p>添加 CSS 樣式可更輕鬆地區分各個 div 元素，並使其
-更漂亮了:)
-
-</body> 
-</html>
 
 
 
+
+
+<div style="background-color:#FFF4A3;">
+<h2>lyrics</h2>
+<p>
 
 💤
 
@@ -228,4 +228,14 @@ I'm not faking
 (被佔了，被佔了)
 把那齣戲留到以後吧
 我不是在假裝
+
+</p>
+</div>
+
+
+
+
+
+</body> 
+</html>
 
