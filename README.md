@@ -14,7 +14,7 @@ New
 居民。</p>
 </div>
 
-<div style="background-color:#FFCOC7;">
+<div style="background-color:#D9EEE1;">
 <h2>0slo</h2>
 <p>0slo 是挪威的首都。
 </p>
