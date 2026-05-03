@@ -1,6 +1,43 @@
 # siubeecom.github.io
 New 
 
+<! DOCTYPE html>
+<html>
+<body>
+
+<hl>多個 DIV 元素</h1>
+
+<div style="background-color:#FFF4A3;">
+<h2>倫敦</h2>
+<p>倫敦是英國的首都城市。
+英格蘭。
+倫敦擁有超過900萬人口
+居民。</p>
+</div>
+
+<div style="background-color:#FFCOC7;">
+<h2>0slo</h2>
+<p>0slo 是挪威的首都。
+</p>
+<p>0slo擁有超過70萬居民。
+</p> </div>
+
+<div style="background-color:#D9EEE1;">
+<h2>羅馬</h2>
+<p>羅馬是義大利的首都。
+</p>
+羅馬擁有超過400萬居民。
+</p> </div>
+
+<p>添加 CSS 樣式可更輕鬆地區分各個 div 元素，並使其
+更漂亮了:)
+
+</body> 
+</html>
+
+
+
+
 💤
 
 [Verse 1]
