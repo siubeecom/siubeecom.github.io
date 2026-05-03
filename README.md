@@ -36,9 +36,6 @@ New
 <div style="background-color:#FFF4A3;">
 <h2>lyrics</h2>
 <p>
-
-💤
-
 [Verse 1]
 You slid in smooth
 Like you knew the code
@@ -55,12 +52,10 @@ No, baby, no
 Read the room
 That smile won't turn
 This bench to two
-
 You can keep that grin
 And your staged romance
 I don't owe you
 A second chance
-
 [Chorus]
 This seat is occupied
 (Taken, taken)
