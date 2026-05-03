@@ -1,7 +1,6 @@
 # siubeecom.github.io
 New 
 
-<! DOCTYPE html>
 <html>
 <body>
 
