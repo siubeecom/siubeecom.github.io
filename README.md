@@ -24,11 +24,11 @@ New
 
 
 
-<! DOCTYPE html>
+
 <html>
 <body>
 
-<hl>多個 DIV 元素</h1>
+
 
 <div style="background-color:#d9b4f0;">
 <h2>倫敦</h2>
@@ -75,8 +75,7 @@ New
 羅馬擁有超過400萬居民。
 </p> </div>
 
-</body> 
-</html>
+
 
 
 
